@@ -4,11 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>EVA 002 - DANIEL BARRIA</title>
+<title>EVA 003 - DANIEL BARRIA</title>
 </head>
 <body>
 <div align ="center">
-<h1>LOGIN</h1>
+<h1>AUTOMATIZACION DE PRUEBNAS</h1>
+<h2>EVA003 - DANIEL BARRIA</h2>
+<h3>LOGIN</h3>
 <form name="f1" action ="login" onsubmit = "return validation()" method="post">
 <table>
 
